@@ -46,6 +46,7 @@ class UserAuth{
     }
     return true;
   }
+}
 
-  
-module.exports = UserAuth;
+ module.exports = UserAuth;
+
